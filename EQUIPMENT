@@ -38,7 +38,7 @@ body {
 <body>
 
 <div class="btn-group" style="width:100%">
-  <button style="width:25%">HOME</button>
+  <button onclick="window.location='https://github.com/Teletran1/Fitness_Site_By_SG/blob/master/index.html'; return false;">HOME</button>
   <button style="width:25%">EQUIPMENT</button>
   <button style="width:25%">CLASSES</button>
   <button style="width:25%">PRICING</button>
@@ -48,10 +48,8 @@ body {
 </div>
 
 </body>
-</html>
+</html>  
 
-<html>
-<body>
 
 <style>
 h.small {
