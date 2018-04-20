@@ -38,8 +38,8 @@ body {
 <body>
 
 <div class="btn-group" style="width:100%">
-  <button onclick="window.location='https://teletran1.github.io/Fitness_Site_By_SG/'; return false;">HOME</button>
-  <button style="width:25%">EQUIPMENT</button>
+  <button onclick="window.location='https://github.com/Teletran1/Fitness_Site_By_SG/'; return false;">HOME</button>
+  <button onclick="window.location='https://teletran1.github.io/Fitness_Site_By_SG/EQUIPMENT'; return false;">EQUIPMENT</button>
   <button style="width:25%">CLASSES</button>
   <button style="width:25%">PRICING</button>
   <button style="width:25%">1 ON 1</button>
@@ -48,8 +48,10 @@ body {
 </div>
 
 </body>
-</html>  
+</html>
 
+<html>
+<body>
 
 <style>
 h.small {
@@ -68,48 +70,22 @@ h.small {
 <br>
 <br>
 <br>
-<span>
 <p style=font-size:125%
-<p><font face="goergia" color="black">
-    <h2>KICK BOXING ROOM</h2>
+<p><font color="black">
+" Your Core. It is the very center of your physical being. Keeping it healthy and in top condition is vital to becoming the best athlete that you can be. Our dedicated and experienced  team of professionals will mold you day by day with extensive dietary, mental and muscle systems designed through years of research. Our clientele consist of world class athletes derived from a broad spectrum of sports including tennis, boxing, football and so on. Contact us today for a free estimate and start yourself on the path to a stronger you. Inside and out."
+</P>
+<br>
+      
+<IMG SRC="https://www.getthrive.com/wp-content/uploads/2015/08/AdobeStock_118630870.jpeg" ALT="some text" WIDTH=300 HEIGHT=300>
+<br>
 
-<img src="http://www.kidderminsterkravmaga.co.uk/resources/FITNESS%20KICKING.png" width="800" height="800" align="bottom"><p style=font-size:125% <p><font face="goergia" color="black">Balance. Kick boxing allows you to develop the most basic usage of all four limbs. The arms and legs function almost as one to combine cardio, hand eye coordination, timing, and mental focus all into one great activity. Arm and leg padding, head gear along with mouth gaurds are provided on site. The floor mats are regulation to allow for a safe contact during sparing.</p>
-</br>
-</br>
-<p style=font-size:125%
-<p><font face="goergia" color="black">
-    <h2>BATTLE ROPES</h2>
-
-<img src="https://www.grupok-2.com/139900-large_default/homcom-cuerda-de-batalla-battle-rope-para-ejercicio-y-formacion-de-fitness-y-crossfit-f38mm-longitud-12m-material-poliester-ult.jpg" width="800" height="800" align="bottom"><p style=font-size:125% <p><font face="goergia" color="black">Secret muscles. You know the ones. Those hard to target muscles that can mean the difference in how defined and toned your body can appear. The solution. Battle ropes. They can trigger the work out that those muscles want and need. This unique and extremely popular method of exercise is a daily routine among some of the world's top athletes. After a few hours of this, your arms and shoulders will thanks you.</p>
-</br>
-</br>
-<p style=font-size:125%
-<p><font face="goergia" color="black">
-    <h2>FREE WEIGHTS</h2>
-    
-<img src="https://img.aws.livestrongcdn.com/ls-article-image-673/cme/photography.prod.demandstudios.com/9b990b6d-89c9-4748-9013-1f8620249dbd.jpeg" width="800" height="800" align="bottom"><p style=font-size:125% <p><font face="goergia" color="black">Why do we even call them free weights in the first place? After all, the results you gain from using them are everything but free. The concentration. The drive to perform rep after rep until you best your last. The weight systems in our facility are state of the art to say the least. We offer the top brands that you know and trust combined with a skilled professional staff of personal trainers to help you use them safely and effectively.</p>
-</br>
-</br>
-<p style=font-size:125%
-<p><font face="goergia" color="black">
-    <h2>THE BELL TOWER</h2>
-    
-<img src="http://www.tabatatimes.com/wp-content/uploads/2013/08/Rope-Climb.jpg" width="800" height="800" align="bottom"><p style=font-size:125% <p><font face="goergia" color="black">It is said that if you can lift your own body weight for a certain period of time, then you can lift almost anything. The bell tower is the ultimate combination of self determination and upper body conditioning all rolled into one. The ropes are suspended seventeen feet above the floor. You can participate in an individual timed climb, a team climb relay, or challenge a friend one on one to the top.</p>
-</br>
-</br>
-<p style=font-size:125%
-<p><font face="goergia" color="black">
-    <h2>SCULPT RESISTANCE</h2>
-    <img src="https://ak2.picdn.net/shutterstock/videos/27010432/thumb/1.jpg?i10c=img.resize(height:165)" width="800" height="800" align="bottom"><p style=font-size:125% <p><font face="goergia" color="black">Are you looking to isolate those hard to get muscles and whip them into shape? That section at the back of the upper arm for example. Or maybe you need to thicken the wrist muscle to improve your tennis game. What ever the reason, find the weight that is right for your individual goal and get to work. These wights are so versatile. You can use them to perform pushups. Perform weighted sit ups or squats.</p>
-</br>
-</br>
-<p style=font-size:125%
-<p><font face="goergia" color="black">
-    <h2>GYMNASTIC RINGS</h2>
-    <img src="https://ak8.picdn.net/shutterstock/videos/31234708/thumb/10.jpg" width="800" height="800" align="bottom"><p style=font-size:125% <p><font face="goergia" color="black">This is perhaps one of the most physically demanding pieces of equipment in our facility. The gymnastic rings require strength, coordination, discipline and everything else in between. New to it? Our team will work with you initially in order for you to become familiar with the various types of techniques associated with the equipment. Once you become comportable with the basics, you will love this crafty tool of fitness genius. Go for it. </p>
-    </style>
-    </p>
-</span>
+<P style=font-size:125%>
+Cora Jennings,
+<br>
+Founder & CEO
+<br>
+Certified Fitness Instructor 
+</p>
 <br>
 <br>
 <br>
