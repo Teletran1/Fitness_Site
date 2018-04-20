@@ -38,8 +38,8 @@ body {
 <body>
 
 <div class="btn-group" style="width:100%">
-  <button onclick="window.location='https://github.com/Teletran1/Fitness_Site_By_SG/'; return false;">HOME</button>
-  <button onclick="window.location='https://github.com/Teletran1/Fitness_Site_By_SG/EQUIPMENT'; return false;">EQUIPMENT</button>
+  <button onclick="window.location='https://teletran1.github.io/Fitness_Site_By_SG/'; return false;">HOME</button>
+  <button style="width:25%">EQUIPMENT</button>
   <button style="width:25%">CLASSES</button>
   <button style="width:25%">PRICING</button>
   <button style="width:25%">1 ON 1</button>
@@ -48,10 +48,8 @@ body {
 </div>
 
 </body>
-</html>
+</html>  
 
-<html>
-<body>
 
 <style>
 h.small {
@@ -70,22 +68,18 @@ h.small {
 <br>
 <br>
 <br>
+<span>
 <p style=font-size:125%
-<p><font color="black">
-" Your Core. It is the very center of your physical being. Keeping it healthy and in top condition is vital to becoming the best athlete that you can be. Our dedicated and experienced  team of professionals will mold you day by day with extensive dietary, mental and muscle systems designed through years of research. Our clientele consist of world class athletes derived from a broad spectrum of sports including tennis, boxing, football and so on. Contact us today for a free estimate and start yourself on the path to a stronger you. Inside and out."
-</P>
-<br>
-      
-<IMG SRC="https://www.getthrive.com/wp-content/uploads/2015/08/AdobeStock_118630870.jpeg" ALT="some text" WIDTH=300 HEIGHT=300>
-<br>
-
-<P style=font-size:125%>
-Cora Jennings,
-<br>
-Founder & CEO
-<br>
-Certified Fitness Instructor 
-</p>
+<p><font face="goergia" color="black">
+    <img src="http://www.kidderminsterkravmaga.co.uk/resources/FITNESS%20KICKING.png"></a><p>Plaxce the eqiupment discription here.</p>
+    <img src="https://thumbs.dreamstime.com/b/fit-blonde-beautiful-woman-battle-ropes-exercise-fitness-gym-young-female-wearing-sportswear-98541211.jpg"></a>
+    <img src="https://img.aws.livestrongcdn.com/ls-article-image-673/cme/photography.prod.demandstudios.com/9b990b6d-89c9-4748-9013-1f8620249dbd.jpeg"></a>
+    <img src="http://www.tabatatimes.com/wp-content/uploads/2013/08/Rope-Climb.jpg"></a>
+    <img src="https://ak2.picdn.net/shutterstock/videos/27010432/thumb/1.jpg?i10c=img.resize(height:165)"></a>
+    <img src="https://ak8.picdn.net/shutterstock/videos/31234708/thumb/10.jpg"></a>
+    </style>
+    </p>
+</span>
 <br>
 <br>
 <br>
@@ -101,3 +95,4 @@ Certified Fitness Instructor
 
 </body>
 </html>
+
